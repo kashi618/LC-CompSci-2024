@@ -1,3 +1,2 @@
-# LC-Python-Files
-Repo of computer science files used throughout Leaving Certificate 2024.
+This repo has most class assignments, tests, and all 4 ALT projects I have done in the 2024 Computer Science Leaving Certificate.
 CHECK OUT THE ALT PROJECTS. They really cool :)
