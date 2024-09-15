@@ -1,0 +1,10 @@
+def numOfCharInSen(char,sen):
+    # for each letter in the sentence, compare if the character is in the sentence
+    for i in range(len(sen)):
+        if char in sen[0+i]:
+            amount += 1
+    # shows amount of times character is present in the sentence
+    print("The amount of times the character",char,"is in the sentence",sen,"is",amount,"times")
+
+# Calls numOfCharInSen function
+numOfCharInSen(input("Enter the character: ").lower(),input("Enter the sentence: ").lower())

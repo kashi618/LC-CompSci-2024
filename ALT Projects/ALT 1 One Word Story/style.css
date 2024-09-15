@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ff0069;
+  color: #ffffff;
+}
+
+ul li {
+  list-style: none;
+  color: #00ff40;
+  float: center;
+  font-size: 50px;
+  text-align: center;
+}
+
+ul:hover li {
+  transform: rotate(0.5turn);
+}
+
+
+h1 {
+  color: #00ff69;
+  font-family: Helvetica;
+
+}
+
+h2 {
+  font-family: Helvetica;
+  color: #00ffff;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+.box {
+  width: 500px;
+  height: 230px;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
